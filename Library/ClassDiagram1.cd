@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Library.AddNewBook">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAQAACAACBCAAACAgAACAAAAIAECAQAFQGBAAAA=</HashCode>
+      <FileName>AddNewBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Book">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEIAAAAAAAAAAAAAAAAQAIAAAAAAABAABAAA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.BookIssue">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAEAAA=</HashCode>
+      <FileName>BookIssue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Database">
+    <Position X="9.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAgAAAAAAAAAAAAAAAAAAAABAEAAA=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Form1">
+    <Position X="2.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAwCAQAACBICJAAAAiCgEgCAAACQAEBAcQRAEEAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LibraryDataSet">
+    <Position X="4" Y="13" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Library.LibraryDataSet.BookDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LibraryDataSet.StudentRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LibraryDataSet.BookIssueRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LibraryDataSet.StudentRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LibraryDataSet.BookIssueRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LibraryDataSet.BookIssueDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LibraryDataSet.StudentDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Library.LibraryDataSet.BookRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Library.LibraryDataSet.BookRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Library.LibraryDataSet.BookIssueRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Library.LibraryDataSet.BookRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Library.LibraryDataSet.StudentRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAQwIAAAJABAAAQEABgAgCQBgAACAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LIBRARYDataSet1">
+    <Position X="7.5" Y="13" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Library.LIBRARYDataSet1.StudentRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Library.LIBRARYDataSet1.BookIssueRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LIBRARYDataSet1.BookRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Library.LIBRARYDataSet1.BookIssueRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Library.LIBRARYDataSet1.StudentRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LIBRARYDataSet1.BookIssueDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LIBRARYDataSet1.StudentDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Library.LIBRARYDataSet1.BookRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Library.LIBRARYDataSet1.BookIssueRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LIBRARYDataSet1.BookDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LIBRARYDataSet1.StudentRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LIBRARYDataSet1.BookRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAQyIAAAJABAAAQEABgAgCQBgCACAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LIBRARYDataSet">
+    <Position X="5.75" Y="13" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Library.LIBRARYDataSet.StudentDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LIBRARYDataSet.StudentRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LIBRARYDataSet.BookIssueRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LIBRARYDataSet.StudentRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LIBRARYDataSet.BookRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LIBRARYDataSet.BookRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LIBRARYDataSet.BookDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Library.LIBRARYDataSet.BookIssueDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Library.LIBRARYDataSet.BookIssueRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Delegate Name="Library.LIBRARYDataSet.StudentRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Delegate Name="Library.LIBRARYDataSet.BookRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Library.LIBRARYDataSet.BookIssueRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAQyIAAAJABAAAQEABgAgCQBgCACAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Program">
+    <Position X="9.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.ReturnBook">
+    <Position X="4" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAACAAAACAIABAgAAGCgAwCAAIiACBBAYABQAFAAAg=</HashCode>
+      <FileName>ReturnBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Student">
+    <Position X="7.5" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LibraryDataSetTableAdapters.BookTableAdapter">
+    <Position X="7.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LibraryDataSetTableAdapters.BookIssueTableAdapter">
+    <Position X="2.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LibraryDataSetTableAdapters.StudentTableAdapter">
+    <Position X="4" Y="29.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LibraryDataSetTableAdapters.TableAdapterManager">
+    <Position X="5.75" Y="29.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Library.LibraryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="Library.LibraryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAACAEAABAJAEBAACAMAAgIBgCgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LIBRARYDataSet1TableAdapters.BookTableAdapter">
+    <Position X="4.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LIBRARYDataSet1TableAdapters.BookIssueTableAdapter">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LIBRARYDataSet1TableAdapters.StudentTableAdapter">
+    <Position X="9.25" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LIBRARYDataSet1TableAdapters.TableAdapterManager">
+    <Position X="7.5" Y="29.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Library.LIBRARYDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="Library.LIBRARYDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAACAEAABAJAEBAACAMAAgIBgCgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LIBRARYDataSetTableAdapters.BookTableAdapter">
+    <Position X="6" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LIBRARYDataSetTableAdapters.BookIssueTableAdapter">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LIBRARYDataSetTableAdapters.StudentTableAdapter">
+    <Position X="2.25" Y="29.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LIBRARYDataSetTableAdapters.TableAdapterManager">
+    <Position X="9.25" Y="29.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Library.LIBRARYDataSetTableAdapters.TableAdapterManager.UpdateOrderOption" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="Library.LIBRARYDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAACAEAABAJAEBAACAMAAgIBgCgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Properties.Resources">
+    <Position X="2.25" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Properties.Settings">
+    <Position X="5.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAIAAAAAAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
